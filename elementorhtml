@@ -1,0 +1,6 @@
+// In your single post template in elementor add a HTML widget and paste this code
+
+
+<canvas id="signature-pad" width="400" height="200" style="border: 1px solid #000; background-color: #FFF;"></canvas>
+<button id="save-signature">Save signature</button>
+<button id="clearCanvas">Clear signature field</button>
